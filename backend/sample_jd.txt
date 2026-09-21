@@ -1,0 +1,13 @@
+We are looking for a Java Software Developer.
+
+Required Skills:
+Java, Spring Boot, SQL, REST API, Git
+
+Preferred Skills:
+Docker, AWS, React
+
+Experience:
+0-2 years
+
+Education:
+B.Tech / B.E in Computer Science or related field
